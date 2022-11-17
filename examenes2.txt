@@ -1,0 +1,33 @@
+El código del examen es E2-2022
+El código del examen es E1-2022
+El código del examen es E3-2022
+E3-2022 ; Alumno Pedro; Pregunta: 1; Respuesta: B
+E2-2022 ; Alumno Rosa; Pregunta: 1; Respuesta: D
+E1-2022 ; Alumno Miguel; Pregunta: 1; Respuesta: -
+E2-2022 ; Alumno Rosa; Pregunta: 2; Respuesta: B
+E3-2022 ; Alumno Pedro; Pregunta: 2; Respuesta: D
+E2-2022 ; Alumno Rosa; Pregunta: 3; Respuesta: D
+E1-2022 ; Alumno Miguel; Pregunta: 2; Respuesta: A
+E2-2022 ; Alumno Rosa; Pregunta: 4; Respuesta: D
+E3-2022 ; Alumno Pedro; Pregunta: 3; Respuesta: B
+E2-2022 ; Alumno Rosa; Pregunta: 5; Respuesta: D
+E1-2022 ; Alumno Miguel; Pregunta: 3; Respuesta: B
+E2-2022 ; Alumno Rosa; Pregunta: 6; Respuesta: B
+E3-2022 ; Alumno Pedro; Pregunta: 4; Respuesta: B
+E2-2022 ; Alumno Rosa; Pregunta: 7; Respuesta: -
+E3-2022 ; Alumno Pedro; Pregunta: 5; Respuesta: -
+E1-2022 ; Alumno Miguel; Pregunta: 4; Respuesta: D
+E3-2022 ; Alumno Pedro; Pregunta: 6; Respuesta: A
+E2-2022 ; Alumno Rosa; Pregunta: 8; Respuesta: D
+E3-2022 ; Alumno Pedro; Pregunta: 7; Respuesta: D
+E1-2022 ; Alumno Miguel; Pregunta: 5; Respuesta: A
+E3-2022 ; Alumno Pedro; Pregunta: 8; Respuesta: A
+E2-2022 ; Alumno Rosa; Pregunta: 9; Respuesta: C
+E3-2022 ; Alumno Pedro; Pregunta: 9; Respuesta: C
+E1-2022 ; Alumno Miguel; Pregunta: 6; Respuesta: -
+E3-2022 ; Alumno Pedro; Pregunta: 10; Respuesta: D
+E2-2022 ; Alumno Rosa; Pregunta: 10; Respuesta: B
+E1-2022 ; Alumno Miguel; Pregunta: 7; Respuesta: B
+E1-2022 ; Alumno Miguel; Pregunta: 8; Respuesta: -
+E1-2022 ; Alumno Miguel; Pregunta: 9; Respuesta: A
+E1-2022 ; Alumno Miguel; Pregunta: 10; Respuesta: B

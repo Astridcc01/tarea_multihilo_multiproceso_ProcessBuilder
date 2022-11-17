@@ -1,0 +1,33 @@
+El código del examen es E1-2022
+El código del examen es E3-2022
+El código del examen es E2-2022
+E2-2022 ; Alumno Juan; Pregunta: 1; Respuesta: A
+E2-2022 ; Alumno Juan; Pregunta: 2; Respuesta: C
+E2-2022 ; Alumno Juan; Pregunta: 3; Respuesta: C
+E2-2022 ; Alumno Juan; Pregunta: 4; Respuesta: -
+E2-2022 ; Alumno Juan; Pregunta: 5; Respuesta: C
+E2-2022 ; Alumno Juan; Pregunta: 6; Respuesta: A
+E2-2022 ; Alumno Juan; Pregunta: 7; Respuesta: -
+E2-2022 ; Alumno Juan; Pregunta: 8; Respuesta: A
+E3-2022 ; Alumno Luis; Pregunta: 1; Respuesta: D
+E3-2022 ; Alumno Luis; Pregunta: 2; Respuesta: -
+E3-2022 ; Alumno Luis; Pregunta: 3; Respuesta: B
+E3-2022 ; Alumno Luis; Pregunta: 4; Respuesta: C
+E3-2022 ; Alumno Luis; Pregunta: 5; Respuesta: B
+E3-2022 ; Alumno Luis; Pregunta: 6; Respuesta: B
+E3-2022 ; Alumno Luis; Pregunta: 7; Respuesta: B
+E3-2022 ; Alumno Luis; Pregunta: 8; Respuesta: C
+E3-2022 ; Alumno Luis; Pregunta: 9; Respuesta: D
+E3-2022 ; Alumno Luis; Pregunta: 10; Respuesta: -
+E2-2022 ; Alumno Juan; Pregunta: 9; Respuesta: C
+E2-2022 ; Alumno Juan; Pregunta: 10; Respuesta: -
+E1-2022 ; Alumno Pepe; Pregunta: 1; Respuesta: B
+E1-2022 ; Alumno Pepe; Pregunta: 2; Respuesta: -
+E1-2022 ; Alumno Pepe; Pregunta: 3; Respuesta: B
+E1-2022 ; Alumno Pepe; Pregunta: 4; Respuesta: A
+E1-2022 ; Alumno Pepe; Pregunta: 5; Respuesta: A
+E1-2022 ; Alumno Pepe; Pregunta: 6; Respuesta: D
+E1-2022 ; Alumno Pepe; Pregunta: 7; Respuesta: -
+E1-2022 ; Alumno Pepe; Pregunta: 8; Respuesta: -
+E1-2022 ; Alumno Pepe; Pregunta: 9; Respuesta: A
+E1-2022 ; Alumno Pepe; Pregunta: 10; Respuesta: D
